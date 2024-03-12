@@ -1,0 +1,133 @@
+.container{
+    height: 60px;
+    max-width: 100%;
+    background-color: rgb(246, 4, 4);
+    
+}
+.col{
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+}
+.col-7{
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+    justify-content: end;
+}
+.para23{
+    margin-right: 250px;
+}
+
+.logo-img{
+    width: 90px;
+    height: 80px;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(255, 254, 254);
+    height: 100px;
+
+}
+.left{
+    padding: 10px;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.navbar-brand{
+    margin-left: 70px;
+    margin-top: 30px;
+    font-weight: 600;
+}
+.right{
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 70px;
+    font-weight: 600;
+}
+.nav-link{
+    padding: 10px;
+}
+.image23{
+    position: relative;
+
+}
+.zukoca{
+    width: 100%;
+    height: 400px;
+}
+.img-words{
+    position: absolute;
+    top: 18%;
+    color: white;
+    align-items: center;
+    padding: 50px;
+    font-weight: 600;
+    margin-left: 500px;
+    text-align: center;
+    
+
+}
+.hop{
+    font-size: 70px;
+    font-weight: 600;
+}
+.hip{
+    font-size: 20px;
+    font-weight: 600;
+}
+.card{
+    width: 500px;
+    height: 350px;
+   margin: 15px;
+}
+.card-body{
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px;
+}
+.logo11{
+    width: 400px;
+    height: 400px;
+}
+.footer{
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    
+}
+.right22{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    padding: 10px;
+    
+    
+    
+}
+.weeo{
+    padding: 20px;
+    text-decoration: none;
+}
+.head{
+    color: red;
+    padding: 10px;
+    
+}
+.link{
+    text-decoration: none;
+    padding: 12px;
+    font-size: 20px;
+    list-style-type: none;
+    
+}
+.last{
+    background-color: black;
+    height: 50px;
+    color: white;
+    
+    text-align: center;
+}

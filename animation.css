@@ -1,0 +1,37 @@
+.nav-link::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    background-color: red;
+    margin: auto;
+    display: block;
+}
+.nav-link:hover::after{
+    width: 100%;
+    transition: 0.5s;
+}
+.nav-link:hover{
+    color: red;
+}
+.link::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    background-color: red;
+    margin: auto;
+    display: block;
+}
+.link:hover{
+    color: red;
+    
+}
+.card{
+    transition:all 0.3s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.navbar-brand:hover{
+    transform: scale(1.15);
+    color: red;
+}
